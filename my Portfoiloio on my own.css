@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+nav a {
+    padding: 10px;
+    text-decoration: none;
+}
